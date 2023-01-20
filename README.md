@@ -13,7 +13,7 @@ Blog link [here](https://kirankamath.hashnode.dev/predicting-starbucks-offer-suc
 ## Libraries used <a name="Libraries"></a>
 Libraries
 This project requires Python 3.x and the following Python libraries installed:
-- python==3.6.3(recommended)
+- python==3.8.10(recommended)
 - seaborn==0.8.1
 - pandas==0.23.3
 - numpy==1.12.1
