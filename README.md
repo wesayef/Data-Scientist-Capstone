@@ -1,4 +1,4 @@
-# Data-Scientist-Capstone ( Starbucks-Capstone-Challenge )
+# Data-Scientist-Capstone (Starbucks-Capstone-Challenge)
 
 Blog link [here](https://kirankamath.hashnode.dev/predicting-starbucks-offer-success-and-finding-most-relevant-factors-for-offer-success)
  
